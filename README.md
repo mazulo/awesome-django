@@ -508,6 +508,7 @@ Where to discover new Django apps and projects.
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [Mastering Django](http://masteringdjango.com/getting-started/) (1.8)
 
 ## Websites
 
